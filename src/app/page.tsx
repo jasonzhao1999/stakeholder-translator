@@ -193,12 +193,10 @@ export default function Home() {
       <footer className="border-t border-[var(--border)] py-6">
         <div className="max-w-6xl mx-auto px-6 flex items-center justify-between text-xs text-[var(--muted-foreground)]">
           <p>
-            Stakeholder Translator — AI decides how to communicate, humans
-            decide what to approve.
+            Built by Jason Zhao
           </p>
           <p>
-            The AI never sends communications. A human always reviews and
-            approves.
+            The AI drafts. A human approves. Always.
           </p>
         </div>
       </footer>
